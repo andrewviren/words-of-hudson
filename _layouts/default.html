@@ -1,0 +1,105 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="/assets/css/style.css">
+</head>
+<body>
+<h1>{{page.title}}</h1>
+<h2>Some old words, some new. All cute.</h2>
+
+{% for item in site.data.audio %}
+  <h2>{{item.letter}}</h2></br>
+    {{ item.name }}: {{item.definition}}</br>
+    <audio controls>
+      <source src="{{ item.link }}">
+    </audio>
+{% endfor %}
+
+
+<h2>C</h2>
+<h2>D</h2>
+  Doo doo daa daa: a general statement of happiness.</br>
+      <audio controls><
+        <source src="audio/DooDooDaaDaa.mp3" type="audio/mpeg">
+      </audio>
+<h2>E</h2>
+<h2>F</h2>
+<h2>G</h2>
+<h2>H</h2>
+  He he he he </br>
+  <audio controls>
+    <source src="audio/hehehehe.mp3" type="audio/mpeg">
+  </audio></br></br>
+  <audio controls>
+    <source src="audio/hehehehehe.mp3" type="audio/mpeg">
+  </audio></br></br>
+<h2>I</h2>
+I love you: Probably the best thing ever</br>
+  <audio controls>
+    <source src="audio/i love you.mp3" type="audio/mpeg">
+  </audio></br>
+I tooted: A statement of triumph</br>
+  <audio controls>
+    <source src="audio/I tooted.mp3" type="audio/mpeg">
+  </audio></br>
+<h2>J</h2>
+<h2>K</h2>
+<h2>L</h2>
+<h2>M<h2>
+<h2>N</h2>
+<h2>O</h2>
+  O juice: The color orange. E.g. "O juice car", "O juice dino"</br>
+    <audio controls>
+      <source src="audio/O Juice.mp3" type="audio/mpeg">
+    </audio></br>
+  ooooohhhhh ooooohhhh: something VERY interesting just happened!</br>
+  <audio controls>
+    <source src="audio/ooooohhhhh ooooohhhh.mp3" type="audio/mpeg">
+  </audio></br>
+  Okay!: Yes please!</br>
+      <audio controls>
+        <source src="audio/Okay!.mp3" type="audio/mpeg"></br>
+      </audio></br>
+      <audio controls>
+              <source src="audio/mmmmmOkay!.mp3" type="audio/mpeg">
+      </audio></br>
+<h2>P</h2>
+Pink one: a pink something</br>
+    <audio controls><
+      <source src="audio/pink one.mp3" type="audio/mpeg">
+    </audio></br>
+<h2>Q<h2>
+<h2>R</h2>
+Red</br>
+    <audio controls><
+      <source src="audio/red.mp3" type="audio/mpeg">
+    </audio></br>
+Roooooarrrr</br>
+  <audio controls>
+    <source src="audio/Roar.mp3" type="audio/mpeg">
+  </audio></br>
+  <audio controls>
+    <source src="audio/roar2.mp3" type="audio/mpeg">
+  </audio>
+<h2>S</h2>
+Shake shake shake shake</br>
+  <audio controls>
+    <source src="audio/shake shake shake shake.mp3" type="audio/mpeg">
+  </audio></br>
+
+<h2>T</h2>
+That's funny</br>
+  <audio controls>
+    <source src="audio/that's funny.mp3" type="audio/mpeg">
+  </audio></br>
+<h2>U</h2>
+<h2>V</h2>
+<h2>W</h2>
+<h2>X<h2>
+<h2>Y</h2>
+<h2>Z</h2>
+</body>
+</html>
+

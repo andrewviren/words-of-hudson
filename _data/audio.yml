@@ -1,0 +1,12 @@
+- letter: A
+  name: The ABCs
+  definition: ... at least most of them.
+  link: /audio/ABCs.mp3
+- letter: B
+  name: big, big, BIG!
+  definition: something of ordinary size
+  link: /audio/big big.mp3
+- letter: D
+  name: Doo doo daa daa
+  definition: a general statement of happiness
+  link: /audio/DooDooDaaDaa.mp3
