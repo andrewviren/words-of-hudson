@@ -17,7 +17,6 @@ gem "minima", "~> 2.5"
 # If you have any plugins, put them here!
 
 gem "github-pages", group: :jekyll_plugins
-
   
 #  gem "jekyll-sitemap"
 #  gem "jekyll-paginate"
