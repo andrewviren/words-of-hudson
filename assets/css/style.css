@@ -1,11 +1,11 @@
 .container-audio {
     width: 66%;
-    height: 80px;
-    padding: 20px;
+    height: 35px;
+    padding: 2px;
     border-radius: 5px;
     background-color: #eee;
     color: #444;
-    margin: 20px auto;
+    margin: 2px auto;
     overflow: hidden;
 }
 audio {
