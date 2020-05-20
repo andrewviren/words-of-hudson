@@ -1,60 +1,60 @@
 - letter: A
-  name: The ABCs
+  word: The ABCs
   definition: ... at least most of them.
   link: /audio/ABCs.mp3
 - letter: B
-  name: big, big, BIG!
+  word: big, big, BIG!
   definition: something of ordinary size
   link: /audio/big big.mp3
 - letter: D
-  name: Doo doo daa daa
+  word: Doo doo daa daa
   definition: a general statement of happiness
   link: /audio/DooDooDaaDaa.mp3
 - letter: H
-  name: He he he he 
+  word: He he he he 
   link: audio/hehehehe.mp3
 - letter: H
-  name: He he he he
+  word: He he he he
   link: /audio/hehehehehe.mp3
 - letter: I
-  name: I love you
+  word: I love you
   definition: Probably the best thing ever
   link: /audio/i love you.mp3
 - letter: I
-  name: I tooted
+  word: I tooted
   definition: A statement of triumph
   link: /audio/I tooted.mp3
 - letter: O
-  name: O juice
+  word: O juice
   definition: The color orange. E.g. "O juice car", "O juice dino"
   link: /audio/O Juice.mp3"
 - letter: O
-  name: ooooohhhhh ooooohhhh
+  word: ooooohhhhh ooooohhhh
   definition: something VERY interesting just happened!
   link: /audio/ooooohhhhh ooooohhhh.mp3"
 - letter: O
-  name: Okay!
+  word: Okay!
   definition: Yes please!
   link: /audio/Okay!.mp3
 - letter: O
-  name: Okay!
+  word: Okay!
   link: /audio/mmmmmOkay!.mp3
 - letter: P
-  name: Pink one
+  word: Pink one
   definition: pink something
   link: /audio/pink one.mp3
 - letter: R
-  name: Red
+  word: Red
   link: /audio/red.mp3
 - letter: R
-  name: Roooooarrrr
+  word: Roooooarrrr
   link: /audio/Roar.mp3
 - letter: R
-  name: Roaarrrrr
+  word: Roaarrrrr
   link: /audio/roar2.mp3
 - letter: S
-  name: Shake shake shake shake
+  word: Shake shake shake shake
   link: /audio/shake shake shake shake.mp3
 - letter: T
-  name: That's funny
+  word: That's funny
   link: /audio/that's funny.mp3
